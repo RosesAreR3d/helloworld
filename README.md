@@ -1,5 +1,6 @@
 # helloworld
 learning
+
 0   BLACK
 
 1   BLUE
@@ -21,8 +22,13 @@ learning
 9   LIGHTBLUE
 
 10  LIGHTGREEN
+
 11  LIGHTCYAN
+
 12  LIGHTRED
+
 13  LIGHTMAGENTA
+
 14  YELLOW
+
 15  WHITE
